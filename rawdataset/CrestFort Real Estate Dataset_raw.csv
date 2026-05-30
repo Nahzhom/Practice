@@ -1,0 +1,181 @@
+Raw_Property_Record
+PR001|Terrace| port harcourt |David Ade|68000000|5|150
+PR002|APARTMENT|Enugu|Fatima Musa|25000000||500
+PR003|BUNGALOW|Lagos|mary johnson||4|220
+PR004|apartment|Enugu|David Ade|18000000|5|180
+PR005|Detached House|LAGOS|David Ade||4|350
+PR006|Duplex|Lagos|Aisha Bello|45000000||120
+PR007|Duplex|Abuja|emeka obi|92000000||
+PR008|apartment|LAGOS|John Okafor|145000000||110
+PR009|Land|Kano|emeka obi|68000000|6|150
+PR010|apartment|Port Harcourt|Grace Mensah|68000000|6|180
+PR011|Apartment|ABUJA|John Okafor|68000000|3|110
+PR012|Terrace|Abuja|Grace Mensah|92000000|2|150
+PR013|Terrace|Enugu|mary johnson|92000000|2|110
+PR014|APARTMENT|ABUJA|mary johnson|25000000|5|120
+PR015|Apartment|Kano|David Ade|25000000||
+PR016| duplex |Kano|mary johnson|92000000|7|500
+PR017|APARTMENT|Kaduna|Grace Mensah|18000000|3|800
+PR018|apartment| port harcourt | CHINEDU EZE |25000000|6|120
+PR019|apartment| port harcourt | CHINEDU EZE |68000000|6|350
+PR020|Terrace| port harcourt |John Okafor|145000000|3|220
+PR021|APARTMENT|Abuja|Aisha Bello|145000000|5|120
+PR022|Land|Enugu| CHINEDU EZE |145000000|7|150
+PR023| duplex |Abuja|emeka obi|68000000||800
+PR024|Apartment|Kano|David Ade|45000000|4|180
+PR025|APARTMENT|lagos|Ngozi Nwosu|||800
+PR026|Land|ABUJA|Ngozi Nwosu|25000000|6|180
+PR027|Detached House|LAGOS|Ngozi Nwosu|145000000|6|500
+PR028|BUNGALOW|Enugu| CHINEDU EZE |||350
+PR029|Detached House|Kaduna|David Ade|92000000|2|150
+PR030| duplex |Lagos|John Okafor|25000000|4|500
+PR031|Apartment|Enugu|Ngozi Nwosu|45000000|5|
+PR032|Detached House|Abuja|Grace Mensah|92000000|5|350
+PR033|BUNGALOW|Kaduna|Fatima Musa|145000000|6|350
+PR034|Apartment|lagos|Ngozi Nwosu|92000000||150
+PR035| duplex |Lagos|Grace Mensah|25000000|4|800
+PR036|Detached House|LAGOS|Ngozi Nwosu|92000000|3|800
+PR037|Apartment|lagos|Fatima Musa|92000000|5|800
+PR038|Land|Kaduna|Grace Mensah|145000000||110
+PR039|APARTMENT|Kaduna|Fatima Musa|18000000|2|180
+PR040| duplex |Enugu|mary johnson|145000000|4|150
+PR041|Duplex|ABUJA|Kelechi Umeh|92000000|2|180
+PR042|Apartment|Port Harcourt|Grace Mensah|92000000|3|500
+PR043|Terrace|Kano|mary johnson|25000000|6|800
+PR044|Detached House|lagos| CHINEDU EZE |18000000|4|110
+PR045|APARTMENT|ABUJA|emeka obi|145000000|6|180
+PR046|BUNGALOW|Kano| CHINEDU EZE |||350
+PR047|Land| port harcourt | CHINEDU EZE |68000000|5|220
+PR048|Duplex|LAGOS|Fatima Musa|68000000|3|800
+PR049|APARTMENT| port harcourt |Kelechi Umeh|68000000|7|800
+PR050|apartment|Kaduna|Kelechi Umeh|68000000|6|220
+PR051|Detached House|Abuja|Ngozi Nwosu|92000000|6|150
+PR052|Land|lagos|Fatima Musa|68000000|6|220
+PR053|Terrace|Abuja| CHINEDU EZE ||6|180
+PR054|Terrace|lagos|emeka obi||3|110
+PR055|Terrace|Lagos|Kelechi Umeh|68000000|5|500
+PR056|BUNGALOW|Abuja|Ngozi Nwosu|92000000|5|120
+PR057|Apartment| port harcourt |David Ade|25000000|3|350
+PR058|Land|Abuja|mary johnson|25000000|2|110
+PR059|Duplex|Port Harcourt|Grace Mensah|68000000|5|800
+PR060|BUNGALOW|LAGOS|David Ade|92000000|6|120
+PR061|Duplex|Lagos|John Okafor|18000000|3|120
+PR062|Land|Kaduna|John Okafor|45000000|3|
+PR063|Duplex| port harcourt |Aisha Bello|45000000|2|220
+PR064| duplex |Port Harcourt|Grace Mensah||4|
+PR065|Detached House|LAGOS|David Ade|92000000|3|500
+PR066|APARTMENT|Kaduna| CHINEDU EZE |68000000||350
+PR067|Detached House|lagos|Grace Mensah|68000000|4|350
+PR068|Apartment|Kano|Kelechi Umeh||4|120
+PR069|APARTMENT|lagos|mary johnson||7|220
+PR070|apartment| port harcourt |mary johnson|68000000||110
+PR071|apartment|Abuja|Kelechi Umeh|145000000|7|180
+PR072|Duplex| port harcourt | CHINEDU EZE |92000000||150
+PR073|Detached House|ABUJA|John Okafor||7|150
+PR074|APARTMENT|Enugu|Ngozi Nwosu|18000000||220
+PR075|apartment| port harcourt |David Ade|145000000|6|350
+PR076|APARTMENT|Lagos| CHINEDU EZE |68000000|6|800
+PR077| duplex |ABUJA|Ngozi Nwosu|68000000|6|800
+PR078|Duplex|Lagos|Ngozi Nwosu|145000000|4|350
+PR079|apartment|Enugu|Ngozi Nwosu||4|
+PR080|BUNGALOW|Abuja|emeka obi|25000000|7|
+PR081|APARTMENT|lagos|mary johnson|68000000|6|110
+PR082|APARTMENT|Lagos| CHINEDU EZE |45000000|6|120
+PR083|Terrace|LAGOS|emeka obi|18000000||180
+PR084|Land|Kano|David Ade||4|110
+PR085|APARTMENT| port harcourt |Aisha Bello|25000000|2|220
+PR086|Detached House|LAGOS| CHINEDU EZE |68000000|2|150
+PR087|Duplex|LAGOS|Ngozi Nwosu|45000000|2|350
+PR088|Duplex|Enugu|Grace Mensah|25000000|7|150
+PR089| duplex |Enugu|John Okafor|25000000||150
+PR090|Detached House|Kaduna|Aisha Bello|45000000|5|110
+PR091| duplex | port harcourt |mary johnson|45000000|6|110
+PR092| duplex |Port Harcourt|David Ade|25000000|7|150
+PR093|Land|lagos|Fatima Musa|92000000||180
+PR094| duplex |ABUJA|mary johnson||5|800
+PR095|apartment|Kano|Kelechi Umeh||4|500
+PR096|Terrace|Enugu|Grace Mensah|25000000||350
+PR097| duplex |lagos|Kelechi Umeh|92000000|2|120
+PR098|Land|Port Harcourt|John Okafor|92000000|7|500
+PR099|Terrace|Abuja|Ngozi Nwosu|18000000||
+PR100|Duplex|Enugu|Fatima Musa|145000000|5|220
+PR101|BUNGALOW|Port Harcourt|Ngozi Nwosu|18000000|5|800
+PR102|Land|Kaduna|Ngozi Nwosu|18000000|4|
+PR103|Duplex|lagos|Ngozi Nwosu|18000000|6|
+PR104|Detached House|Kano|John Okafor|45000000|6|180
+PR105| duplex |Port Harcourt|John Okafor|18000000|4|
+PR106|Apartment| port harcourt |emeka obi|25000000|4|350
+PR107|Terrace|Port Harcourt|Aisha Bello|145000000|4|110
+PR108|apartment|Enugu|Grace Mensah|45000000|3|120
+PR109|Terrace|Port Harcourt|John Okafor|145000000|7|350
+PR110| duplex |Enugu|Aisha Bello|68000000|5|220
+PR111|Detached House|Port Harcourt|Aisha Bello|18000000|3|110
+PR112|Terrace|Lagos|emeka obi|18000000|7|350
+PR113|Terrace| port harcourt |Ngozi Nwosu|25000000|7|180
+PR114|APARTMENT|Lagos|David Ade|45000000|2|800
+PR115|Terrace|Abuja|Ngozi Nwosu|18000000|3|180
+PR116|Land|Port Harcourt|Grace Mensah|18000000|6|220
+PR117|Duplex|lagos|Kelechi Umeh|25000000|5|500
+PR118|Detached House|Kano|Ngozi Nwosu|45000000|4|
+PR119| duplex |Kaduna|David Ade|145000000|6|500
+PR120| duplex |Kaduna|Ngozi Nwosu|25000000|4|120
+PR121|Detached House|Kano|Kelechi Umeh|92000000|4|150
+PR122|BUNGALOW|Port Harcourt|John Okafor|145000000|5|
+PR123|apartment|Lagos|John Okafor|25000000||150
+PR124|apartment|LAGOS|mary johnson|145000000|4|800
+PR125|Land|ABUJA|David Ade|145000000||350
+PR126|Land|Kaduna|Fatima Musa|25000000|2|220
+PR127|BUNGALOW|Lagos|Kelechi Umeh|92000000|4|220
+PR128|Apartment| port harcourt |David Ade|45000000||800
+PR129|BUNGALOW|Kaduna|Grace Mensah||4|110
+PR130|Duplex|lagos|Grace Mensah||4|120
+PR131|apartment|Kano|Ngozi Nwosu|45000000||220
+PR132| duplex |Enugu|Kelechi Umeh|25000000|6|
+PR133|apartment|Enugu|Grace Mensah|18000000||
+PR134| duplex |Port Harcourt|mary johnson|25000000|2|800
+PR135| duplex |LAGOS|Ngozi Nwosu|18000000|5|120
+PR136|Apartment|Abuja| CHINEDU EZE |68000000|4|180
+PR137| duplex | port harcourt |mary johnson||5|120
+PR138|Duplex|ABUJA|John Okafor|18000000|5|110
+PR139|Detached House|Enugu|Ngozi Nwosu|68000000|6|350
+PR140| duplex |Abuja|Grace Mensah|68000000|4|110
+PR141|BUNGALOW| port harcourt |David Ade||4|800
+PR142|APARTMENT|Kaduna|Aisha Bello|68000000|7|110
+PR143|APARTMENT|Enugu|Aisha Bello|145000000|3|180
+PR144|Detached House| port harcourt |Ngozi Nwosu|45000000|5|
+PR145|Land| port harcourt |Grace Mensah|145000000|5|150
+PR146|Detached House|Port Harcourt|mary johnson|||350
+PR147|APARTMENT|LAGOS|emeka obi||2|500
+PR148|Terrace|lagos|Fatima Musa|68000000|7|150
+PR149|apartment|Enugu|Ngozi Nwosu|92000000|3|220
+PR150|Apartment|Kano|Ngozi Nwosu|92000000|7|120
+PR151|Land|Abuja|Ngozi Nwosu|92000000|3|120
+PR152|BUNGALOW|Lagos|mary johnson|25000000|4|110
+PR153| duplex |Lagos|Ngozi Nwosu||5|500
+PR154|apartment|ABUJA|mary johnson||6|500
+PR155|apartment|Port Harcourt|Kelechi Umeh|25000000|2|500
+PR156|APARTMENT| port harcourt |Aisha Bello|45000000||500
+PR157|APARTMENT|ABUJA|Aisha Bello|25000000|7|180
+PR158|Apartment|Kano|Kelechi Umeh|45000000|3|150
+PR159|Terrace|Port Harcourt|emeka obi|92000000|4|110
+PR160|BUNGALOW|Kano|Ngozi Nwosu|68000000|5|220
+PR161|apartment|Abuja|Kelechi Umeh||7|500
+PR162|Land|ABUJA|Aisha Bello|92000000|7|800
+PR163|Terrace| port harcourt |mary johnson||4|220
+PR164|BUNGALOW|Enugu|Kelechi Umeh|145000000|5|220
+PR165|BUNGALOW|Port Harcourt|mary johnson|25000000|2|
+PR166|apartment|ABUJA|Grace Mensah|145000000||110
+PR167|Land|Enugu| CHINEDU EZE ||2|
+PR168|BUNGALOW|Enugu|David Ade|68000000|3|120
+PR169| duplex |Lagos|John Okafor|18000000|6|350
+PR170| duplex |LAGOS|Kelechi Umeh|145000000|7|180
+PR021|APARTMENT|Abuja|Aisha Bello|145000000|5|120
+PR022|Land|Enugu| CHINEDU EZE |145000000|7|150
+PR023| duplex |Abuja|emeka obi|68000000||800
+PR024|Apartment|Kano|David Ade|45000000|4|180
+PR025|APARTMENT|lagos|Ngozi Nwosu|||800
+PR026|Land|ABUJA|Ngozi Nwosu|25000000|6|180
+PR027|Detached House|LAGOS|Ngozi Nwosu|145000000|6|500
+PR028|BUNGALOW|Enugu| CHINEDU EZE |||350
+PR029|Detached House|Kaduna|David Ade|92000000|2|150
+PR030| duplex |Lagos|John Okafor|25000000|4|500
